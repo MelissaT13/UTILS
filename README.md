@@ -3,6 +3,7 @@
 1. utile sa salvezi datele cand ai ceva stabil 
 
 -> git add . 
+
 -> git commit -m"Mesaj despre lucrurile imbunatatie"
 
 
