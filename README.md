@@ -6,12 +6,14 @@
 
 -> git commit -m"Mesaj despre lucrurile imbunatatie"
 
+-> git push
+
 
 2.Cand creezi un repo nou:
 
 -> git init 
  
--> Pasii de la 1
+-> Pasii de la 1, fara push
 
 -> initializezi repo (gol, fara readme, sa fie privat) in GitHub ( https://docs.github.com/assets/cb-11427/images/help/repository/repo-create.png )
 
